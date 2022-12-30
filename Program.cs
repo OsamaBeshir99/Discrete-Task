@@ -4,40 +4,36 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_Discrete_Mathematics_2
+namespace Project_Discrete_Mathematics_1
 {
     internal class Program
     {
         static void Main(string[] args)
-        {
-            int x , y , sum = 0;
-            Console.WriteLine("Enter the frist number : ");
-            int frist = int.Parse(Console.ReadLine());
+        { 
 
-            Console.WriteLine("Enter the end number : ");
-            int end = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter a number ");
+            int number = int.Parse(Console.ReadLine());
 
-            //frist loop to determine the frist and end number taken from user
-            for (int number = frist; number <= end; number++)
+            int y;
+            bool current = false;
+
+            for (int i = 2; i <= number; i++)
             {
-                //seconed to determine the divisor frist and end 
-                for (int Divisor = 1; Divisor <= end; Divisor++)
+                for (y = 2; y < i; y++)
                 {
-                    //frist condition 
-                    if (number % Divisor == 0 && number != Divisor)
+                    if (i % y == 0)
                     {
-                        //add the divisor
-                        sum += Divisor;
+                        current = true;
                     }
                 }
-                //seconed condition
-                if (sum == number)
+                if (current == false)
                 {
-                    Console.WriteLine(" perfect number is : " + number);
+                    Console.WriteLine("The prime number is {0} " , y); 
                 }
-                sum= 0;
-                
+                else current = false;
             }
         }
     }
 }
+   
+

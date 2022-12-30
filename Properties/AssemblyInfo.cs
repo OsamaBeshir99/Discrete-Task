@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Project Discrete Mathematics 2")]
+[assembly: AssemblyTitle("Project Discrete Mathematics 1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Project Discrete Mathematics 2")]
+[assembly: AssemblyProduct("Project Discrete Mathematics 1")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a86eebef-4ca3-4a83-9cbd-cfc0059698f6")]
+[assembly: Guid("0cd9b81f-dd14-4928-a1a1-36c2e29873e8")]
 
 // Version information for an assembly consists of the following four values:
 //
