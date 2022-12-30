@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\bin\Debug\Project Discrete Mathematics 1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\bin\Debug\Project Discrete Mathematics 1.exe
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\bin\Debug\Project Discrete Mathematics 1.pdb
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\obj\Debug\Project Discrete Mathematics 1.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\obj\Debug\Project Discrete Mathematics 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\obj\Debug\Project Discrete Mathematics 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\obj\Debug\Project Discrete Mathematics 1.exe
+C:\Users\Dell\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Project Discrete Mathematics 1\Project Discrete Mathematics 1\obj\Debug\Project Discrete Mathematics 1.pdb
